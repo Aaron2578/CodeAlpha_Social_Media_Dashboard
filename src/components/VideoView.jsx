@@ -15,7 +15,7 @@ const chartConfig = {
   height: 240,
   series: [
     {
-      name: "Sales",
+      name: "Videos",
       data: [5270, 18000, 42000, 13600, 13000, 29000, 25300, 23000, 19000],
     },
   ],
